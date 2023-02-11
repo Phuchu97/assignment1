@@ -1,0 +1,17 @@
+.search {
+    padding-right: 16px;
+}
+
+#search-input {
+    border: solid 0.2px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 30%;
+    padding: 6px 0;
+    padding-left: 10px;
+}
+
+.search-title {
+    align-self: center;
+    padding-right: 10px;
+    font-size: 22px;
+}
